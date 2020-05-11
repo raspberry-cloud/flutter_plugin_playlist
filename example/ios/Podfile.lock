@@ -4,12 +4,12 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `.symlinks/flutter/ios`)
+  - Flutter (from `Flutter`)
   - flutter_plugin_playlist (from `.symlinks/plugins/flutter_plugin_playlist/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: ".symlinks/flutter/ios"
+    :path: Flutter
   flutter_plugin_playlist:
     :path: ".symlinks/plugins/flutter_plugin_playlist/ios"
 
@@ -17,6 +17,6 @@ SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   flutter_plugin_playlist: 245f862b09e56e2b374810baaa8be4c83cb094cb
 
-PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+PODFILE CHECKSUM: f32fb4e7c14f8b3ca19a369d7be425dd9241af27
 
 COCOAPODS: 1.8.4
